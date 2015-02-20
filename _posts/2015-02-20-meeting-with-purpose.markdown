@@ -7,7 +7,7 @@ categories: [Undercurrent, Ways of Working, IDM]
 
 Making decisions at work is hard. People don’t like doing it. They don’t seem to mind putting a prickly decision off, even when it slows their organization down. Usually that’s because people don’t want to have the finger pointed at them when things go badly. This is particularly true of large organizations. This decision-making paralysis slows everything down and can cannibalize people’s engagement.
 
-One way we’re fighting that entropy at [Undercurrent](http://undercurrent.com) is by changing the way people meet. It’s deceptively simple, but has become one of the more effective ways to introduce [responsiveness](http://www.responsive.org/manifesto) inside of an organization. It’s grounded in an existing decision-making process called [Integrative Decision Making](http://en.wikipedia.org/wiki/Sociocracy#Consent_governs_policy_decision_making_.28principle_1.29) (IDM) that we’re continually adapting for us and our clients.
+One way we’re fighting that entropy at [Undercurrent](http://undercurrent.com) is by changing the way people meet. It’s deceptively simple, but has become one of the more effective ways to introduce [responsiveness](http://www.responsive.org/manifesto) inside of an organization. It’s grounded in an existing decision-making process called Integrative Decision Making (IDM, [Figure 5](http://governance.server306.com/wp-content/uploads/2010/02/Creative-Forces-of-Self-Organization1.pdf)) that we’re continually adapting for us and our clients.
 
 The basic format is this:
 
