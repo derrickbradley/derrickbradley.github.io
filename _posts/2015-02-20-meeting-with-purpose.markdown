@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UC Observations: Meeting With Purpose"
+title:  "Meeting With Purpose"
 date:   2015-02-20 9:00:00
 categories: [Undercurrent, Ways of Working, IDM]
 ---
