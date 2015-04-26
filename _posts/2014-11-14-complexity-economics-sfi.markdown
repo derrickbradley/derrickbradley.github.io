@@ -20,9 +20,12 @@ Below are a couple of my observations and thoughts from my time @ SFI last week 
 * The economic role of the state is to create an institutional framework to create an environment that supports the evolutionary workings of markets, strikes an effective balance between cooperation and competition, and shapes the economic fitness function to best serve the needs of a society. The state also has an obligation to ensure that all its citizens have an equal opportunity to participate in the economic system, and to provide a basic level of support for those who do not succeed in that system. Complexity economics contends that the focus of public policy should be on creating jurisdictional conditions for economic evolution, by implementing evolving portfolios of "policy experiments" with an emphasis on empiricism and data.
 
 **Books and Resources**
+
 Rob Axtell – [Growing Artificial Societies: Social Science From the Bottom Up](http://www.amazon.com/Growing-Artificial-Societies-Science-Adaptive/dp/0262550253)
+
 Eric Beinhocker – [The Origin of Wealth](http://www.amazon.com/Origin-Wealth-Evolution-Complexity-Economics/dp/157851777X)
-Brian Arthur - [Complexity and the Economy](http://www.amazon.com/Complexity-Economy-W-Brian-Arthur/dp/0199334293)
+
+Brian Arthur – [Complexity and the Economy](http://www.amazon.com/Complexity-Economy-W-Brian-Arthur/dp/0199334293)
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
