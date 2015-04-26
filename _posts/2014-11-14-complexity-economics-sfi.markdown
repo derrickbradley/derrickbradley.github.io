@@ -21,9 +21,9 @@ Below are a couple of my observations and thoughts from my time @ SFI last week 
 
 **Books and Resources**
 
-Rob Axtell – [Growing Artificial Societies: Social Science From the Bottom Up](http://www.amazon.com/Growing-Artificial-Societies-Science-Adaptive/dp/0262550253)
-Eric Beinhocker – [The Origin of Wealth](http://www.amazon.com/Origin-Wealth-Evolution-Complexity-Economics/dp/157851777X)
-Brian Arthur – [Complexity and the Economy](http://www.amazon.com/Complexity-Economy-W-Brian-Arthur/dp/0199334293)
+* Rob Axtell – [Growing Artificial Societies: Social Science From the Bottom Up](http://www.amazon.com/Growing-Artificial-Societies-Science-Adaptive/dp/0262550253)
+* Eric Beinhocker – [The Origin of Wealth](http://www.amazon.com/Origin-Wealth-Evolution-Complexity-Economics/dp/157851777X)
+* Brian Arthur – [Complexity and the Economy](http://www.amazon.com/Complexity-Economy-W-Brian-Arthur/dp/0199334293)
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
