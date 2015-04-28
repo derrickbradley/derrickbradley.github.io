@@ -25,13 +25,13 @@ Below is the [Zap](https://zapier.com) that makes this whole thing work.
 
 ![Step 1](http://i.imgur.com/q5NDy8hl.png)
 
-![Step 2](http://i.imgur.com/MyelWs8.png)
+![Step 2](http://i.imgur.com/OIPEeBYl.png)
 
-![Step 3](http://i.imgur.com/oLF2hxG.png)
+![Step 3](http://i.imgur.com/qJzNpMKl.png)
 
-![Step 4](http://i.imgur.com/59soHue.png)
+![Step 4](http://i.imgur.com/i6kvCxhl.png)
 
-![Step 5](http://i.imgur.com/cQTIpYb.png)
+![Step 5](http://i.imgur.com/KdH8uUKl.png)
 
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
