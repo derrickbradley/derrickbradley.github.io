@@ -17,7 +17,7 @@ It occurred to me that one experiment to run against this challenge is to look a
 
 To put this idea into practice I’ve decided to use a tool called Trello. Almost every team at Undercurrent already uses it to manage their projects, which makes it a great place to start. 
 
-The first thing we need is a new Trello board that will capture all of the jobs to be done by Members on slack (our load balancer). The way an allocated team adds a card to this board is simply by adding a “Slack” label to any card on their existing Trello boards. Zapier then makes a copy of that card and adds it a Jobs to Be Done list in the load balancing board. Once there, Members on slack can add themselves to any card they're interested in working on, execute on it, and move the card into the Done list once completed.
+The first thing we need is a new Trello board that will capture all of the jobs to be done by Members on slack (our load balancer). The way an allocated team adds a card to this board is simply by adding a “Slack” label to any card on their existing Trello boards. [Zapier](https://zapier.com), a piece of elegant task automation software, then makes a copy of that card and adds it a Jobs to Be Done list in the load balancing board. Once there, Members on slack can add themselves to any card they're interested in working on, execute on it, and move the card into the Done list once completed.
 
 There’s nothing more to it than that for now. It’s lean and flexible, two attributes that make for quick uptake around Undercurrent. I’m excited to give this a go and see what kind of use we get out of it. 
 
