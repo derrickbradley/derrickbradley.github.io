@@ -23,17 +23,15 @@ There’s nothing more to it than that for now. It’s lean and flexible, which 
 
 Below is the [Zap](https://zapier.com) that makes this whole thing work.
 
-![Step 1](http://i.imgur.com/wZqWCRv.png)
+![Step 1](http://i.imgur.com/q5NDy8hl.png)
 
-![Step 2](http://i.imgur.com/d3iwIq0.png)
+![Step 2](http://i.imgur.com/MyelWs8.png)
 
-![Step 3](http://i.imgur.com/MyelWs8.png)
+![Step 3](http://i.imgur.com/oLF2hxG.png)
 
-![Step 4](http://i.imgur.com/oLF2hxG.png)
+![Step 4](http://i.imgur.com/59soHue.png)
 
-![Step 5](http://i.imgur.com/59soHue.png)
-
-![Step 6](http://i.imgur.com/cQTIpYb.png)
+![Step 5](http://i.imgur.com/cQTIpYb.png)
 
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
