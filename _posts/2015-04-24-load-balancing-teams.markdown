@@ -15,13 +15,13 @@ It occurred to me that one experiment to run against this challenge is to look a
 
 > Load balancing is a core networking solution responsible for distributing incoming traffic among servers hosting the same application content. By balancing application requests across multiple servers, a load balancer prevents any application server from becoming a single point of failure, thus improving overall application availability and responsiveness. For example, when one application server becomes unavailable, the load balancer simply directs all new application requests to other available servers in the pool.
 
-To put this idea into practice I’ve decided to use Trello. Almost every team at Undercurrent already uses it to manage their projects, which makes it a great place to start. 
+To put this idea into practice I’ve decided to use a tool called Trello. Almost every team at Undercurrent already uses it to manage their projects, which makes it a great place to start. 
 
-The first thing we need is a new Trello board that will capture all of the jobs to be done by Members on slack (our load balancer). The way an allocated team adds a card to this board is simply by adding a “Slack” label to any card on their existing Trello board projects. From there, Zapier makes a copy of that card and adds it a Jobs to Be Done list in the load balancing board. Once there, Members on slack can add themselves to the card, execute the work, and move the card into the Done list once completed.
+The first thing we need is a new Trello board that will capture all of the jobs to be done by Members on slack (our load balancer). The way an allocated team adds a card to this board is simply by adding a “Slack” label to any card on their existing Trello boards. Zapier then makes a copy of that card and adds it a Jobs to Be Done list in the load balancing board. Once there, Members on slack can add themselves to any card they're interested in working on, execute on it, and move the card into the Done list once completed.
 
-There’s nothing more to it than that for now. It’s lean and flexible, which are two attributes that make for quick uptake around Undercurrent. I’m excited to give this a go and see what kind of use we get out of it. 
+There’s nothing more to it than that for now. It’s lean and flexible, two attributes that make for quick uptake around Undercurrent. I’m excited to give this a go and see what kind of use we get out of it. 
 
-Below is the [Zap](https://zapier.com) that makes this whole thing work.
+For anyone who's interested this is the [Zap](https://zapier.com) that makes this whole thing work.
 
 ![Step 1](http://i.imgur.com/q5NDy8hl.png)
 
