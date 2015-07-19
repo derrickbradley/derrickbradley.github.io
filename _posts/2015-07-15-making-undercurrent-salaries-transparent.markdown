@@ -9,7 +9,7 @@ Three months ago I decided to start making Undercurrent's salaries transparent. 
 
 To help us inch forward towards salary transparency, we created a chart with a handful of options –ranging from being completely open to keeping things as they are– and asked folks to vote for their preference. At one end of the spectrum we asked for your name, current and historical salaries at Undercurrent, and your bonus (% of total salary). At the other end of the transparency spectrum we'd open up salary ranges at each band level, but nothing more. 
 
-![Imgur](http://i.imgur.com/UMK6uni.jpg)
+![Imgur](http://i.imgur.com/UMK6unil.jpg)
 
 Over the next couple of days the votes trickled in. More tenured folks tended to opt for full transparency, while the remaining votes were scattered across the other categories. After collecting the majority of the votes... nothing happened. It was one of the few moments in Undercurrent's holacratic history where something felt too big to process inside of a governance meeting. Everyone wanted a say. Instead of seeking consent the business wanted to seek consensus. It felt like the very antithesis of the principles we so often see and coach against and yet we couldn't fight our desire to have a giant, company-wide discussion about it (though that didn't happen either). The whole thing felt too hairy to deal with so I went out on a limb and decided to create tension inside the organization to force the issue.
 
