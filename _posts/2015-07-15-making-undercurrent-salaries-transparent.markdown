@@ -9,7 +9,7 @@ Three months ago I decided to start making Undercurrent's salaries transparent. 
 
 To help us inch forward towards salary transparency, we created a chart with a handful of options –ranging from being completely open to keeping things as they are– and asked folks to vote for their preference. At one end of the spectrum we asked for your name, current and historical salaries at Undercurrent, and your bonus (% of total salary). At the other end of the transparency spectrum we'd open up salary ranges at each band level, but nothing more. 
 
-[Imgur](http://i.imgur.com/UMK6uni.jpg)
+![Imgur](http://i.imgur.com/UMK6uni.jpg)
 
 Over the next couple of days the votes trickled in. More tenured folks tended to opt for full transparency, while the remaining votes were scattered across the other categories. After collecting the majority of the votes... nothing happened. It was one of the few moments in Undercurrent's holacratic history where something felt too big to process inside of a governance meeting. Everyone wanted a say. Instead of seeking consent the business wanted to seek consensus. It felt like the very antithesis of the principles we so often see and coach against and yet we couldn't fight our desire to have a giant, company-wide discussion about it (though that didn't happen either). The whole thing felt too hairy to deal with so I went out on a limb and decided to create tension inside the organization to force the issue.
 
@@ -17,7 +17,7 @@ This lead to a Google Spreadsheet aptly named Undercurrent Salaries: the first r
 
 As expected, we received enthusiasm and discomfort in nearly equal measure as we went around asking everyone 1-1 if they'd like to join the spreadsheet. An opt-in approach naturally created this pressure and anxiety around being "in" or "out" of an important moment in our trek toward 100% transparency. Even some of the people who decided to share their data were uncomfortable with the approach we took (including some of our partners), but agreed that the upside was worth it. Everyone wanted to uncover pay gaps, look for gender disparity, understand how the model works, and in some cases decide whether or not it's worth it to stick around and become a leader in this business. 
 
-Observations From The (Incomplete) Data
+**Observations From The (Incomplete) Data**
 
 * It's tough to confidently identify a gender pay gap with the data we have, but by my own measure I believe a mild one exists. For work on the billable side of the business we tend to pay our male colleagues roughly 4% more than their female counterparts to do the same work at the same band level.
 
